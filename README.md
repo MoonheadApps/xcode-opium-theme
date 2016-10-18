@@ -1,4 +1,3 @@
-# xcode-opium-theme
 Xcode Opium Theme Color
 =======================
 Beautiful Xcode color theme to help you program during the day and night.

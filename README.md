@@ -1,5 +1,11 @@
 # xcode-opium-theme
 Xcode Opium Theme Color
+=======================
+Beautiful Xcode color theme to help you program during the day and night.
+
+Screenshot
+=======================
+![Theme](https://github.com/MoonheadApps/xcode-opium-theme/blob/master/opium_screenshot.jpeg)
 
 Installation
 =======================
